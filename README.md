@@ -11,4 +11,6 @@ Per automatizzare il controllo ogni minuto, eseguire il seguente controllo:
 questo comando inizializzerà un cronjob in sudo crontab inquanto i comandi ifup e ifdown richiedono il privilegio di super user
 
 
-Nota: il codice per il test della connessione Wifi è preso dal seguente link: http://www.emcu.it/RaspBerryPi/RaspBerryPi_UK.html#Control_the_status_of_the_WiFi
+Nota: il codice per il test della connessione Wifi è preso dal seguente link:
+
+http://www.emcu.it/RaspBerryPi/RaspBerryPi_UK.html#Control_the_status_of_the_WiFi
